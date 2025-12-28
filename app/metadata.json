@@ -1,0 +1,7 @@
+{
+  "name": "ChicAI Stylist",
+  "description": "Your personal AI fashion stylist that helps you mix and match your closet for the perfect daily look.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
